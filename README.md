@@ -10,4 +10,4 @@ Constrainsts:
 5) the word is unique, words like 'cat' and 'cats' are not allowed
 
 
-Please note: most of the code are from https://www.hackingwithswift.com/, code for constrainsts number four and five are mine.
+Related links: https://www.hackingwithswift.com/.
